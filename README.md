@@ -13,7 +13,7 @@ I'm a Computer Engineering student at the University of Buea with a strong passi
 ## 🚀 Tech Stack
 
 - **Languages:** C, C++, Python, JavaScript, HTML/CSS, Kotlin, php
-- **Tools & Frameworks:** React, Tailwind CSS, Node.js, Express, Angular, Kivy
+- **Tools & Frameworks:** React, Tailwind CSS, Node.js, Express, Angular, Kivy, Vite, TypeScript
 - **Other Skills:** Circuit Design, Linux, Git & GitHub  
 - **Learning Focus:** Software Development
 
