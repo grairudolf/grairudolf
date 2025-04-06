@@ -26,7 +26,7 @@ I'm a Computer Engineering student at the University of Buea with a strong passi
 - 🌍 [LinkedIn](https://linkedin.com/grairudolf)
 - 🐦 [Twitter](https://twitter.com/grairudolf) 
 - 💌 Email: *rtech777r@gmail.com*  
-- 🌐 Portfolio: *myportfoilioindol.vercel.app*
+- 🌐 Portfolio: *https://myportfoilio-indol.vercel.app*
 
 ---
 
