@@ -13,7 +13,7 @@ I'm a Computer Engineering student at the University of Buea with a strong passi
 ## 🚀 Tech Stack
 
 - **Languages:** C, C++, Python, JavaScript, HTML/CSS, Kotlin, php
-- **Tools & Frameworks:** React, Tailwind CSS, Node.js, Express, Angular
+- **Tools & Frameworks:** React, Tailwind CSS, Node.js, Express, Angular, Kivy
 - **Other Skills:** Circuit Design, Linux, Git & GitHub  
 - **Learning Focus:** Software Development
 
@@ -24,7 +24,8 @@ I'm a Computer Engineering student at the University of Buea with a strong passi
 ## 📫 Connect with Me
 
 - 🌍 [LinkedIn](https://linkedin.com/grairudolf)
-- 🐦 [Twitter](https://twitter.com/grairudolf) 
+- 🐦 [Twitter](https://twitter.com/grai_rudolf)
+- 📷 [Instagram](https://www.instagram.com/grairudolf)
 - 💌 Email: *rtech777r@gmail.com*  
 - 🌐 Portfolio: *https://myportfoilio-indol.vercel.app*
 
