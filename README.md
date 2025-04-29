@@ -4,6 +4,7 @@ I'm a Computer Engineering student at the University of Buea with a strong passi
 
 - 🔧 Web & App Development  
 - 🌐 Networking & Cybersecurity  
+- 🧑‍💻 Artificial intelligence 
 - 💻 Low-level programming with C/C++  
 - 🚀 Engineering solutions in real world problems.
 - 🧠 Learning through projects, collaboration, and continuous improvement  
