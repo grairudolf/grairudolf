@@ -1,11 +1,11 @@
 # 💫 About Me:
-I am a student in Computer Engineering at the University of Buea, where I enjoy using technology to solve engineering challenges. I enjoy working on community-focused systems and tools, and currently, I am dedicated to improving my skills in:
+I am a student in Computer Engineering at the University of Buea, where I enjoy using technology to solve engineering challenges. I enjoy working on community-focused systems and tools, and currently, I am dedicated to improving my skills in:<br><br>
 
-🔧 Development of Websites and Mobile Applications
-🧑‍💻 Artificial Intelligence
-💻 Low-level Programming with C and C++
-🚀 Engineering Innovation to Address Practical Challenges
-🧠 Project-based learning, collaboration, and lifelong personal development
+🔧 Development of Websites and Mobile Applications<br>
+🧑‍💻 Artificial Intelligence<br>
+💻 Low-level Programming with C and C++<br>
+🚀 Engineering Innovation to Address Practical Challenges<br>
+🧠 Project-based learning, collaboration, and lifelong personal development<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/grairudolf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/grairudolf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/grairudolf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@grairudolf) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/grairudolf) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/grairudolf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/grai_rudolf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rtech777r@gmail.com) 
